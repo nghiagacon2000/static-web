@@ -27,6 +27,7 @@
                     
                 </div>
             </li>
+            <input type="text" placeholder="Tìm kiếm..."/>
             <li class="work" style="position: relative;float-right;"><a id="uses" style="margin-top: 7px;padding: 7px;border-radius: 25px;border: 1px solid #686868;border-color: rgba(47, 53, 59, 0.4);" href="">ĐĂNG NHẬP</a></li>
             <li class="work"style="position: relative;float-right;"><a id="uses" style="margin-top:7px ;padding: 7px;border-radius: 25px;border: 1px solid #686868;border-color: rgba(47, 53, 59, 0.4);" href="">ĐĂNG KÝ</a></li>
             
